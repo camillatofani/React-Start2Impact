@@ -28,10 +28,10 @@ API: https://spoonacular.com/food-api/docs
 
 <details>
 <summary>Bonus</summary>
-Use these technologies:
-1) React Router
-2) Axios
-3) React Hooks
+Use these technologies:<br>
+1) React Router<br>
+2) Axios<br>
+3) React Hooks<br>
 4) Redux or Context API
 </details>
 
