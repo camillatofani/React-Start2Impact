@@ -1,5 +1,4 @@
 # Vegetarian recipe site
-#### My first React App
 
 This project was started with [Start2Impact](https://www.start2impact.it/).
 
@@ -29,7 +28,7 @@ API: https://spoonacular.com/food-api/docs
 
 <details>
 <summary>Bonus</summary>
-### Use these technologies
+Use these technologies:
 1) React Router
 2) Axios
 3) React Hooks
