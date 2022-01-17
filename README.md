@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My first React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was started with [Start2Impact](https://www.start2impact.it/).
 
 ## Available Scripts
 
